@@ -8,3 +8,11 @@ In this Python project, we are going to build a chatbot using deep learning tech
 5.Chatbot_model.h5 – This is the trained model that contains information about the model and has weights of the neurons.
 6.Chatgui.py – This is the Python script in which we implemented GUI for our chatbot. Users can easily interact with the bot.
 
+Here are the 5 steps to create a new chatbot in Python from scratch:
+
+1.Import and load the data file
+2.Preprocess data
+3.Create training and testing data
+4.Build the model
+5.Predict the response
+
